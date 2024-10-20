@@ -1,6 +1,6 @@
 # testuser01000's blog
 
-#[文章跳转测试](docx/1.md)#
+#[文章跳转测试](docs/1.md)#
 
 ***
 
