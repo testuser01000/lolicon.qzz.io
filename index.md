@@ -1,10 +1,7 @@
-# testuser01000的 Github Pages 测试
+# testuser01000's blog
 
-by testuser01000
-
-[跳转测试1](docx/1.md)
+#[文章跳转测试](docx/1.md)#
 
 ***
 
-### 我的[Github](https://github.com/testuser01000)
-### 我的[osu!](https://osu.ppy.sh/users/31860102)
+## [我的Github](https://github.com/testuser01000) / [我的osu!](https://osu.ppy.sh/users/31860102) / [我的ysepan](http://testuser.ysepan.com)
