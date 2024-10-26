@@ -7,7 +7,7 @@
 ## 记录:
 - 2024/10/26 [关于本站点](docs/1.md)
 
-### Others links:
+## Others links:
 
 - #### [我的Github](https://github.com/testuser01000) / [我的osu!](https://osu.ppy.sh/users/31860102) 
 
