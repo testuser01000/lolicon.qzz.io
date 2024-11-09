@@ -26,4 +26,4 @@
 
 > 想看内容的可以去[我的避难所](http://testuser.ysepan.com)的记录里面查看,密码找我要(
 
-<p align="center"><img src="images/!.jpg" width="100"/></p>
+<p align="center"><img src="main/images/ICO.jpg" width="100"/></p>
