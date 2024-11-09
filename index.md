@@ -6,6 +6,7 @@
 
 ## 记录:
 - 2024/10/26 [关于本站点](docs/1.md)
+- 2024/11/9  [WechatMomentsRecord](docs/2.md)
 
 ## Others links:
 
