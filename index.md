@@ -1,4 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="/data/image/!.ico">
 # testuser01000's Github Pages
 
 > 这是我在GitHub上备用网站，点击下方链接前往我的避难所qwq
