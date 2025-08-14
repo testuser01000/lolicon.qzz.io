@@ -12,4 +12,4 @@
 
 - #### [我的Github](https://github.com/testuser01000) / [我的osu!](https://osu.ppy.sh/users/31860102) 
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/testuser01000/testuser01000.github.io/!.jpg" width="100"/></p>
+<p align="center"><img src="!.jpg" width="100"/></p>
