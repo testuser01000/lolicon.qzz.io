@@ -1,9 +1,9 @@
----
-layout: default
----
-<head>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-</head>
+<style>
+    body {
+        background-color: black;
+        color: white;
+    }
+</style>
 # testuser01000's Github Pages
 
 > 这是我的小博客
