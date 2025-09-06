@@ -1,0 +1,60 @@
+---
+---
+/* 给 assets/css/style.scss 添加 Front Matter 让 Jekyll 处理 */
+
+@import "{{ site.theme }}"; /* 可选：这可以确保先加载主题的基础样式 */
+
+body {
+    background-color: #121212; /* 深灰色背景，比纯黑更护眼 */
+    color: #e6e6e6; /* 浅灰色文字 */
+}
+
+/* 调整标题颜色 */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
+
+/* 调整链接颜色 */
+a {
+    color: #8cb4ff;
+}
+a:hover {
+    color: #a9c7ff;
+}
+
+/* 调整导航栏样式（如果您的主题有） */
+.header, .site-header {
+    background-color: #1a1a1a;
+    border-bottom: 1px solid #333;
+}
+
+/* 调整代码块的样式（非常重要！） */
+pre, code {
+    background-color: #2d2d2d !important; /* 深色代码块背景 */
+    color: #f8f8f8 !important; /* 浅色代码文字 */
+    border: 1px solid #444;
+}
+
+/* 调整引用块的样式 */
+blockquote {
+    color: #b3b3b3;
+    border-left: 4px solid #444;
+    background-color: #1e1e1e;
+}
+
+/* 调整表格样式 */
+table {
+    border-color: #444;
+}
+th, td {
+    border-color: #444;
+    background-color: #1a1a1a;
+}
+th {
+    background-color: #2a2a2a;
+}
+
+/* 调整水平分割线 */
+hr {
+    border-color: #444;
+}
