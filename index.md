@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <head>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
