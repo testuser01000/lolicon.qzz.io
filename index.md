@@ -1,5 +1,6 @@
 ---
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+layout: default
+title: ciallo
 ---
 # testuser01000's Github Pages
 
