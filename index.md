@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/style.scss' | relative_url }}">
 # testuser01000's Github Pages
 
 > 这是我的小博客
