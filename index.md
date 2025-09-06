@@ -1,5 +1,4 @@
 ---
-layout: default
 title: ciallo
 ---
 # testuser01000's Github Pages
