@@ -5,8 +5,6 @@ title: ciallo
 
 > 这是我的小博客
 
-> 目前还没做修正，后续会改的（）
-
 > 点击下方链接前往我的避难所
 
 ## [testuser的避难所](http://testuser.ysepan.com)
