@@ -1,19 +1,24 @@
 ---
+
 title: owo
+
 ---
-# testuser01000's Github Pages
+## About me
 
-> 这是我的小博客
-
-> 点击下方链接前往我的避难所
-
-## [testuser的避难所](http://testuser.ysepan.com)
-
-## 记录:
-- 2024/10/26 [关于本站点](docs/1.md)
-
-## Others links:
-
-- #### [我的Github](https://github.com/testuser01000) / [我的osu!](https://osu.ppy.sh/users/31860102) 
+ 是铸币
 
 <p align="center"><img src="!.jpg" width="100"/></p>
+
+### Contacts
+
+osu! : [testuser](https://osu.ppy.sh/users/31860102) 
+
+QQ : 2287283963
+
+ysepan : [testuser的避难所](http://testuser.ysepan.com)
+
+
+
+## Posts:
+
+- 2024/10/26 [关于本站点](docs/1.md)
