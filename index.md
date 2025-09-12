@@ -9,7 +9,7 @@ title: owo
 
 <p align="center"><img src="!.jpg" width="100"/></p>
 
-### Contacts
+## Contacts
 
 osu! : [testuser](https://osu.ppy.sh/users/31860102) 
 
