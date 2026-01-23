@@ -5,3 +5,5 @@ plugins:
 color_scheme: dark
 
 title: ""
+
+footer_content: "😋"
