@@ -1,10 +1,7 @@
-remote_theme: daattali/beautiful-jekyll
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
-title: owo
-author: testuser
-navbar-links:
-  About Me: "铸币"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdownguide.org"
+
+color_scheme: dark
+
+title: ""
