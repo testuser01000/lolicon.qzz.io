@@ -27,7 +27,7 @@ WearOS by 谷歌 (来源小米商店) ：[m.app.mi.com](https://m.app.mi.com/det
 ## 碎碎念
 
 弃子罢了
-<p align="center"><img src="assets/img/tic/1.webp" width="233"/></p>
+<p align="center"><img src="/assets/img/tic/1.webp" width="233"/></p>
 
 ## 修改时间
 
