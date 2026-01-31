@@ -15,4 +15,4 @@ title: 关于本站点
 - [Markdown教程](https://markdown.com.cn/)
 - [qzz.io域名官网](https://domain.digitalplat.org/)
 
-<p align="center"><img src="assets/img/profile/OWO.jpg" width="233"/></p>
+<p align="center"><img src="/assets/img/profile/OWO.jpg" width="233"/></p>
